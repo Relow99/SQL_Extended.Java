@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b8ff8f4-fabb-41c0-adcb-25287b5136f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bTncIkj1hFCVgi9XNqiuCT5fXg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main_SQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_SQL" />
+      <module name="JDBC_SQL.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main_SQL" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b8ff8f4-fabb-41c0-adcb-25287b5136f0" name="Default Changelist" comment="" />
+      <created>1588665028882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588665028882</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="411" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588706244070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="411" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588706244070" />
+    <state x="209" y="19" key="DBNavigator.ProjectSettingsDialog" timestamp="1588712528114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="209" y="19" key="DBNavigator.ProjectSettingsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588712528114" />
+    <state width="1299" height="163" key="GridCell.Tab.0.bottom" timestamp="1588711728518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1299" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588711728518" />
+    <state width="1299" height="163" key="GridCell.Tab.0.center" timestamp="1588711728518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1299" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588711728518" />
+    <state width="1299" height="163" key="GridCell.Tab.0.left" timestamp="1588711728474">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1299" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588711728474" />
+    <state width="1299" height="163" key="GridCell.Tab.0.right" timestamp="1588711728518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1299" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588711728518" />
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588714106303">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588714106303" />
+  </component>
+</project>
